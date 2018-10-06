@@ -23,7 +23,9 @@ Problems:
 #Top 3 App ideas:
 
 1.Recipie App 
+
 2.Haircut & Style Guide/Genrator
+
 3.Safety App
 
 Badabing Badaboom We're done  :)
