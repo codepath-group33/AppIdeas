@@ -21,6 +21,7 @@ Problems:
 11. App that generates a budget based on how much money you have, and your income. Notifies you if you are spending too much (customizable).
 
 #Top 3 App ideas:
+
 1.Recipie App 
 2.Haircut & Style Guide/Genrator
 3.Safety App
