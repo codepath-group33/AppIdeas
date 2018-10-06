@@ -1,5 +1,5 @@
-## App Ideas From Group 33:
-Favorite Apps:
+# App Ideas From Group 33:
+## Favorite Apps:
 
 1. Snapchat (Categories: Social Media, Video/Photo sharing)
 2. YouTube (Social Media, Entertainment, TV, Music)
@@ -7,7 +7,7 @@ Favorite Apps:
 4. Spotify (Music, Social Media)
 5. Venmo (Productivity, Money/Finances, Lifestyle)
 
-Problems:
+## Problems:
 1. Sometimes we want to have some animals to hang out with us when we're sad. Let's create an app that brings animals to your door. (let's call it 'DogDash')
 2. An app that takes items from multiple online stores (Amazon, Ebay, etc...) and puts them all in a care package for you.
 3. Safety app that sends the user data of crimes and other questionable activity based on current location (a location based app that lets you know if you're approaching or are in a potentially dangerous area).
@@ -20,7 +20,7 @@ Problems:
 10. Android widget that can delete all emails except the ones you starred.
 11. App that generates a budget based on how much money you have, and your income. Notifies you if you are spending too much (customizable).
 
-### Top 3 App ideas:
+## Top 3 App ideas:
 
 1.Recipie App 
 
