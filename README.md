@@ -20,7 +20,7 @@ Problems:
 10. Android widget that can delete all emails except the ones you starred.
 11. App that generates a budget based on how much money you have, and your income. Notifies you if you are spending too much (customizable).
 
-#Top 3 App ideas:
+### Top 3 App ideas:
 
 1.Recipie App 
 
