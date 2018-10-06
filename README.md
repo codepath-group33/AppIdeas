@@ -6,6 +6,7 @@ Favorite Apps:
 3. Lime.S (Transportation, Social Media)
 4. Spotify (Music, Social Media)
 5. Venmo (Productivity, Money/Finances, Lifestyle)
+
 Problems:
     1. Sometimes we want to have some animals to hang out with us when we're sad. Let's create an app that brings animals to your door. (let's call it 'DogDash')
     2. An app that takes items from multiple online stores (Amazon, Ebay, etc...) and puts them all in a care package for you.
